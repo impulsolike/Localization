@@ -15,6 +15,6 @@
 4. Agrega `'Localization' => App\ImpulsoLike\Localization\LocalizationFacade::class,` en el array `aliases` de tu archivo de configuración `config/app.php`
 5. Copia el archivo `config/impulsolike_localization.php` dentro de la ruta `config/`
 
-# Implementación
+## Implementación
 1. Crea una ruta para cargar la vista que se encuentra en el directorio `resources/views/localization.blade.php`
 
