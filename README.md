@@ -4,7 +4,7 @@
 ## Requisitos
 1. PHP 7.x
 1. Laravel 7.x
-2. Base de ImpulsoLike 1.x disponible en https://github.com/impulsolike/ImpulsoLike
+2. Base de ImpulsoLike 2.x disponible en https://github.com/impulsolike/ImpulsoLike
 
 
 ## Instalación

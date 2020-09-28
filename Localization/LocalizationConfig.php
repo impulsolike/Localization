@@ -2,9 +2,9 @@
 
 namespace App\ImpulsoLike\Localization;
 
-use App\ImpulsoLike\GlobalConfig;
+use App\ImpulsoLike\General\GeneralConfig;
 
-class LocalizationConfig extends GlobalConfig
+class LocalizationConfig extends GeneralConfig
 {
 
     const CONFIG_FILE        = 'impulsolike_localization';
