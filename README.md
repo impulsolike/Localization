@@ -8,7 +8,6 @@
 
 
 ## Instalación
-
 1. Copia el directorio `Localization` y su contenido dentro de la ruta `app/ImpulsoLike/`
 2. Agrega `\App\ImpulsoLike\Localization\LocalizationMiddleware::class,` en el array `$middlewareGroups['web']` de tu archivo `App/Http/Kernel.php`
 3. Agrega `App\ImpulsoLike\Localization\LocalizationProvider::class,` en el array `providers` de tu archivo de configuración `config/app.php`
